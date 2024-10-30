@@ -8,19 +8,17 @@ namespace HolyQuran.Test_Class
     [TestFixture]
     public class Test_Class : TestInitiallize
     {
-        QuranFirstSession QuranFirstSession;
-        AlQuran2ndSession AlQuran2ndSession;
-        Qibla_Finder QFinder;
-        DigitalTasbeeh DTasbeeh;
-        MasjidFinder MFinder;
-        PrayerTimes PTimes;
-        HijriCalender HijCal;
-
-        HajjUmrahSection HajjUmrah;
-        Azkar Azkar;
-        Names99 Names;
-
-        PremiumandMenu Premiumand;
+        QuranFirstSession? QuranFirstSession;
+        AlQuran2ndSession? AlQuran2ndSession;
+        Qibla_Finder? QFinder;
+        DigitalTasbeeh? DTasbeeh;
+        MasjidFinder? MFinder;
+        PrayerTimes? PTimes;
+        HijriCalender? HijCal;
+        HajjUmrahSection? HajjUmrah;
+        Azkar? Azkar;
+        Names99? Names;
+        PremiumandMenu? Premiumand;
 
         //[Test, Order(1)]
         public void HolyQuranStartUp()
@@ -32,7 +30,7 @@ namespace HolyQuran.Test_Class
         }
 
 
-        [Test, Order(2)]
+        //[Test, Order(2)]
         public void TC01_HolyQuran2ndSession()
         {
             System.Diagnostics.Trace.WriteLine("Test1");
@@ -119,6 +117,16 @@ namespace HolyQuran.Test_Class
             ExtentTest test = Extent.CreateTest("PremiumandMenu Report");
             Premiumand = new PremiumandMenu(driver, test);
             Premiumand.PremiumandMenuMethod();
+        }
+
+        QuranAI QuranAi;
+
+        [Test, Order(1)]
+        public void QuranAI()
+        {
+            ExtentTest test = Extent.CreateTest("PremiumandMenu Report");
+            QuranAi = new QuranAI(driver, test);
+            QuranAi.QuranAITest();
         }
 
     }

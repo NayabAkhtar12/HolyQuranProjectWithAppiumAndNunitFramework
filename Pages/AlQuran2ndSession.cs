@@ -27,7 +27,7 @@ namespace HolyQuran.Pages
         {
 
 
-            ReusableMethods.SplashHandling2ndsessiont();
+            //  ReusableMethods.SplashHandling2ndsessiont();
             ReusableMethods.HandleCBanner("On Holy Quran Module");
             ReusableMethods.ClickwithAd(ALQuranMenu, "Clicking AL Quran Menu");
             ReusableMethods.ClickwithAd(AlFatiha, "Clicking AL Fatiha Menu");

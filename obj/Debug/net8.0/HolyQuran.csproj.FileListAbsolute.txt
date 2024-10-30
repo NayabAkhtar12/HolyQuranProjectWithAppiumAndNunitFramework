@@ -300,13 +300,8 @@ D:\Automation-Projects\Holy-QuranAuto Copy\HolyQuran\bin\Debug\net8.0\runtimes\w
 D:\Automation-Projects\Holy-QuranAuto Copy\HolyQuran\obj\Debug\net8.0\HolyQuran.csproj.CopyComplete
 D:\Automation-Projects\Holy-QuranAuto Copy\HolyQuran\obj\Debug\net8.0\HolyQuran.genruntimeconfig.cache
 D:\Automation-Projects\Holy-QuranAuto Copy\HolyQuran\obj\Debug\net8.0\ref\HolyQuran.dll
-D:\Automation-Projects\Holy-Quran-AppiumWithNunit\HolyQuran\obj\Debug\net8.0\HolyQuran.csproj.AssemblyReference.cache
-D:\Automation-Projects\Holy-Quran-AppiumWithNunit\HolyQuran\obj\Debug\net8.0\HolyQuran.GeneratedMSBuildEditorConfig.editorconfig
-D:\Automation-Projects\Holy-Quran-AppiumWithNunit\HolyQuran\obj\Debug\net8.0\HolyQuran.AssemblyInfoInputs.cache
-D:\Automation-Projects\Holy-Quran-AppiumWithNunit\HolyQuran\obj\Debug\net8.0\HolyQuran.AssemblyInfo.cs
-D:\Automation-Projects\Holy-Quran-AppiumWithNunit\HolyQuran\obj\Debug\net8.0\HolyQuran.csproj.CoreCompileInputs.cache
-D:\Automation-Projects\Holy-Quran-AppiumWithNunit\HolyQuran\bin\Debug\net8.0\testhost.exe
 D:\Automation-Projects\Holy-Quran-AppiumWithNunit\HolyQuran\bin\Debug\net8.0\testhost.dll
+D:\Automation-Projects\Holy-Quran-AppiumWithNunit\HolyQuran\bin\Debug\net8.0\testhost.exe
 D:\Automation-Projects\Holy-Quran-AppiumWithNunit\HolyQuran\bin\Debug\net8.0\NUnit3.TestAdapter.dll
 D:\Automation-Projects\Holy-Quran-AppiumWithNunit\HolyQuran\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
 D:\Automation-Projects\Holy-Quran-AppiumWithNunit\HolyQuran\bin\Debug\net8.0\nunit.engine.dll
@@ -438,6 +433,12 @@ D:\Automation-Projects\Holy-Quran-AppiumWithNunit\HolyQuran\bin\Debug\net8.0\run
 D:\Automation-Projects\Holy-Quran-AppiumWithNunit\HolyQuran\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
 D:\Automation-Projects\Holy-Quran-AppiumWithNunit\HolyQuran\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 D:\Automation-Projects\Holy-Quran-AppiumWithNunit\HolyQuran\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Automation-Projects\Holy-Quran-AppiumWithNunit\HolyQuran\obj\Debug\net8.0\HolyQuran.csproj.AssemblyReference.cache
+D:\Automation-Projects\Holy-Quran-AppiumWithNunit\HolyQuran\obj\Debug\net8.0\HolyQuran.GeneratedMSBuildEditorConfig.editorconfig
+D:\Automation-Projects\Holy-Quran-AppiumWithNunit\HolyQuran\obj\Debug\net8.0\HolyQuran.AssemblyInfoInputs.cache
+D:\Automation-Projects\Holy-Quran-AppiumWithNunit\HolyQuran\obj\Debug\net8.0\HolyQuran.AssemblyInfo.cs
+D:\Automation-Projects\Holy-Quran-AppiumWithNunit\HolyQuran\obj\Debug\net8.0\HolyQuran.csproj.CoreCompileInputs.cache
+D:\Automation-Projects\Holy-Quran-AppiumWithNunit\HolyQuran\obj\Debug\net8.0\HolyQuran.sourcelink.json
 D:\Automation-Projects\Holy-Quran-AppiumWithNunit\HolyQuran\obj\Debug\net8.0\HolyQuran.csproj.CopyComplete
 D:\Automation-Projects\Holy-Quran-AppiumWithNunit\HolyQuran\obj\Debug\net8.0\HolyQuran.dll
 D:\Automation-Projects\Holy-Quran-AppiumWithNunit\HolyQuran\obj\Debug\net8.0\refint\HolyQuran.dll

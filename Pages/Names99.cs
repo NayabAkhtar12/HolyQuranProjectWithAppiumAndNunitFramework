@@ -42,7 +42,7 @@ namespace HolyQuran.Pages
             Thread.Sleep(6000);
             ReusableMethods.NavigateBack("ListenNamesAllah back ");
 
-            ReusableMethods.HandleCBanner("On  99 Names Home screen c banner close");
+            //  ReusableMethods.HandleCBanner("On  99 Names Home screen c banner close");
 
             //99 Names Nabi read section
             ReusableMethods.ClickwithAd(ReadNamesHusna, "ReadNamesHusna");

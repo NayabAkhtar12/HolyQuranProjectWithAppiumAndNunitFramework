@@ -1,5 +1,4 @@
-﻿
-using AventStack.ExtentReports;
+﻿using AventStack.ExtentReports;
 using AventStack.ExtentReports.Reporter;
 using NUnit.Framework;
 using OpenQA.Selenium.Appium;
@@ -11,9 +10,13 @@ namespace HolyQuran.Core
     [TestFixture]
     public class TestInitiallize
     {
-        public AndroidDriver<AndroidElement> driver;
+        public AndroidDriver<AndroidElement>? driver;
+        //   private AndroidDriver<AndroidElement> driver;
+
         public static ExtentReports Extent;
-        private static ExtentSparkReporter _reporter;
+        private static ExtentSparkReporter? _reporter;
+
+        // public AndroidDriver<AndroidElement> Driver { get => driver; set => driver = value; }
 
         // Static constructor for initializing ExtentReports
         static TestInitiallize()
@@ -37,7 +40,7 @@ namespace HolyQuran.Core
         {
             try
             {
-                AppiumOptions cap = new AppiumOptions();
+                AppiumOptions? cap = new AppiumOptions();
                 cap.AddAdditionalCapability(MobileCapabilityType.PlatformName, "Android");
                 cap.AddAdditionalCapability(MobileCapabilityType.DeviceName, "Vivo Y03");
                 cap.AddAdditionalCapability(MobileCapabilityType.Udid, "ONOZSG4H8HSGW8HY");
