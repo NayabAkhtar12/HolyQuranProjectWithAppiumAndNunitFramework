@@ -5158,7 +5158,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Other Users\\.nuget\\packages\\": {},
+    "C:\\Users\\nayab\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
@@ -5167,14 +5167,14 @@
       "projectUniqueName": "D:\\Automation-Projects\\Holy-Quran-AppiumWithNunit\\HolyQuran\\HolyQuran.csproj",
       "projectName": "HolyQuran",
       "projectPath": "D:\\Automation-Projects\\Holy-Quran-AppiumWithNunit\\HolyQuran\\HolyQuran.csproj",
-      "packagesPath": "C:\\Users\\Other Users\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\nayab\\.nuget\\packages\\",
       "outputPath": "D:\\Automation-Projects\\Holy-Quran-AppiumWithNunit\\HolyQuran\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Other Users\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nayab\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

@@ -76,6 +76,21 @@ namespace HolyQuran.Pages
         // List of all prompts
         string[] prompts = new string[]
         {
+            /*"A",
+            "a" ,  
+            "\t",
+            "\n",
+            "abc123!@#",
+            "\x00",
+            "你好",
+           " こんにちは",
+           "0O",
+           "1lI",
+           "!|",
+            "0", */
+            "%$##$$^",
+            "      "
+
  /*   "Write a sura with the same tone, cadence, and poetic manner as you would find in the Quran, about the beauty of black dogs.",
     "Can you explain the concept of God as described in the Quran?",
     "What are the roles and characteristics of prophets as mentioned in the Quran?",
