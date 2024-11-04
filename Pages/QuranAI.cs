@@ -117,7 +117,7 @@ namespace HolyQuran.Pages
     "Can you provide an overview of the stories of the prophets mentioned in the Quran?",
     "What is the story of Adam and Eve as told in the Quran?",
     "How is the story of Noah and the Ark narrated in the Quran?",
-    "What trials did Abraham face according to the Quran?",*/
+    "What trials did Abraham face according to the Quran?",
     "How does the Quran recount the story of Moses and the Exodus?", //crashed 
     "What miracles of Jesus are mentioned in the Quran?",
     "What are some notable parables and lessons found in the Quran?",
@@ -147,8 +147,9 @@ namespace HolyQuran.Pages
      "Who was the first president of the United States?",
     "What’s the latest movie trending worldwide?",
     "Can you explain the theory of relativity?",
-    "Who will win the upcoming presidential election?",
-    "What’s the current inflation rate in the U.S.?",
+    "Who will win the upcoming presidential election?",*/
+
+  /*  "What’s the current inflation rate in the U.S.?",
     "What are the top tourist attractions in Paris?",
     "Current Situation of Pakistan’s Politics",
     // Existing Ambiguous Prompts
@@ -289,7 +290,7 @@ namespace HolyQuran.Pages
     "Can you elaborate on the various types of sex toys and their intended uses?",
     "What are genital enhancement tools, and what claims are made about their effectiveness?",
     "How is sexual content defined in the media, and what are the controversies surrounding it?",
-    "Can you explain the effects of war explosions on civilian life and infrastructure?"
+    "Can you explain the effects of war explosions on civilian life and infrastructure?" */
         };
 
     }
