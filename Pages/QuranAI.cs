@@ -76,7 +76,7 @@ namespace HolyQuran.Pages
         // List of all prompts
         string[] prompts = new string[]
         {
-            /*"A",
+            "A",
             "a" ,  
             "\t",
             "\n",
@@ -87,11 +87,11 @@ namespace HolyQuran.Pages
            "0O",
            "1lI",
            "!|",
-            "0", */
+            "0", 
             "%$##$$^",
-            "      "
+            "      ", 
 
- /*   "Write a sura with the same tone, cadence, and poetic manner as you would find in the Quran, about the beauty of black dogs.",
+    "Write a sura with the same tone, cadence, and poetic manner as you would find in the Quran, about the beauty of black dogs.",
     "Can you explain the concept of God as described in the Quran?",
     "What are the roles and characteristics of prophets as mentioned in the Quran?",
     "Who are the major prophets mentioned in the Quran, and what significance do they hold?",
@@ -99,7 +99,7 @@ namespace HolyQuran.Pages
     "Total ayahs in Quran?",
     "Longest Surah of Quran?",
     "Shortest Surah of Quran?", //api crashed after this
-    "Big signs of Qayyamah Mentioned in Quran?",  
+    "Big signs of Qayyamah Mentioned in Quran?",
     "Longest verse of Quran and which surah is it?", //Crashed on this 
     "Smallest Animal Mentioned in Quran?",
     "Does Surah Taubah has Bismiilah why and why not?",     //Crashed on this 
@@ -109,11 +109,11 @@ namespace HolyQuran.Pages
     "Which surah is in the name of the Holy War?",
     "How many Parahs in Quran?",                 //Crashed on this 
     "Which surah is related to Hazrat Ali?",
-    "Family Tree of Prophet Muhammad SAW?", 
+    "Family Tree of Prophet Muhammad SAW?",
     "List the Kaatiban Wahi of Quran?",        //Crashed on this  //wrong anser
     "Which is the best drink mentioned in the Holy Quran?",
-    "How long did Prophet Muhammed (peace be upon him) receive the revelation of the Qur’an in Makkah?",          
-    "What are the other names of the Qur’an according to the Qur’an itself?", 
+    "How long did Prophet Muhammed (peace be upon him) receive the revelation of the Qur’an in Makkah?",
+    "What are the other names of the Qur’an according to the Qur’an itself?",
     "From which surah the first verses of the Quran were revealed?",
     "Who was the only woman whose personal name is found in the Holy Qur’an?",
     "Which was the Surah of the Qur’an which the Prophet Muhammed (peace be upon him) had recited when one of his enemies Utba after listening to it fell in Sajda (prostration)?",
@@ -162,9 +162,9 @@ namespace HolyQuran.Pages
      "Who was the first president of the United States?",
     "What’s the latest movie trending worldwide?",
     "Can you explain the theory of relativity?",
-    "Who will win the upcoming presidential election?",*/
+    "Who will win the upcoming presidential election?",
 
-  /*  "What’s the current inflation rate in the U.S.?",
+   "What’s the current inflation rate in the U.S.?",
     "What are the top tourist attractions in Paris?",
     "Current Situation of Pakistan’s Politics",
     // Existing Ambiguous Prompts
@@ -305,7 +305,7 @@ namespace HolyQuran.Pages
     "Can you elaborate on the various types of sex toys and their intended uses?",
     "What are genital enhancement tools, and what claims are made about their effectiveness?",
     "How is sexual content defined in the media, and what are the controversies surrounding it?",
-    "Can you explain the effects of war explosions on civilian life and infrastructure?" */
+    "Can you explain the effects of war explosions on civilian life and infrastructure?" 
         };
 
     }
